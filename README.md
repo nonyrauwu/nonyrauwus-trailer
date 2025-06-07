@@ -1,4 +1,4 @@
-﻿#﻿#  Feedback & Issues for nonyrauwu's Trailer
+﻿#﻿#Feedback & Issues for nonyrauwu's Trailer
 
 This repository is for feedback, bug reports, and suggestions related to the modpack nonyrauwu's Trailer.
 
