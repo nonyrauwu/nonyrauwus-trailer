@@ -7,6 +7,4 @@ The modpack is a carefully balanced recreation of the visual and immersive style
 You can download and play the modpack here:
 https://modrinth.com/modpack/nonyrauwus-trailer
 
-Use the Issues tab above to leave feedback or report problems.
-
 Thanks for playing!
